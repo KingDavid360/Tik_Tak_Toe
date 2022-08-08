@@ -6,3 +6,5 @@ This is bascially a tik-tak-toe game or an X and O game that tells the users who
 ### Game play page
 ![tik_ss](https://user-images.githubusercontent.com/80047364/183534001-0040546a-70b6-435f-b11c-17b31888f9f7.png)
 
+![tak_ss](https://user-images.githubusercontent.com/80047364/183534350-699fbc04-9e70-49cf-9aa8-2d9a09327a98.png)
+
